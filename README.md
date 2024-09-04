@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gamezonto_Williammelo&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gamezonto.visitor-badge"  />
 </div>
 
 ###
