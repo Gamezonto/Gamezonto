@@ -60,6 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <script src="https://cdn.jsdelivr.net/npm/python@0.0.4/lib/python.min.js"></script>
 </div>
 
 ###
@@ -70,7 +71,7 @@
 
 
 <div align="center">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gamezonto&theme=iceberg" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gamezonto&theme=black-ice&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 ###
