@@ -68,3 +68,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Gamezonto/Gamezonto/output/snake.svg" alt="Snake animation" />
+
+###
