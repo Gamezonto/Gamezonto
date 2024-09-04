@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@hyper.fun/carbon-icon-logo-python@1.3.0/esm/index.min.js" height="40" alt="Python"  />
+  <img src="https://cdn.jsdelivr.net/npm/@hyper.fun/ionicons4-logo-python@1.3.0/esm/index.min.js" height="40" alt="Python"  />
 </div>
 
 ###
