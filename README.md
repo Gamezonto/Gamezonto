@@ -70,7 +70,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gamezonto&theme=iceberg)](https://git.io/streak-stats) height="220" alt="streak graph" <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gamezonto&theme=iceberg" alt="GitHub Streak" /></a> />
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gamezonto&theme=iceberg" alt="GitHub Streak" /></a>
 </div>
 
 ###
