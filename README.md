@@ -36,7 +36,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://www.flaticon.com/br/icone-gratis/css-3_732190?term=css&page=1&position=1&origin=search&related_id=732190" />
   
 </div>
 
